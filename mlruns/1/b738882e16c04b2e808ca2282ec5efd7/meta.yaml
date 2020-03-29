@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joshi_anurag/Desktop/Deep-Learning/mlruns/1/b738882e16c04b2e808ca2282ec5efd7/artifacts
+end_time: 1577876157518
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+name: ''
+run_id: b738882e16c04b2e808ca2282ec5efd7
+run_uuid: b738882e16c04b2e808ca2282ec5efd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1577876125308
+status: 4
+tags: []
+user_id: joshi_anurag
